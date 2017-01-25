@@ -1,0 +1,76 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1485235390000,
+        "modified": 1485235390000,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "BLE_scanner.xdk": {
+        "previousModTime": 1485235392000,
+        "modified": 1485235392000,
+        "seen": true,
+        "name": "BLE_scanner.xdk"
+      },
+      "BLE_scanner.xdke": {
+        "previousModTime": 1485295059000,
+        "modified": 1485295059000,
+        "seen": true,
+        "name": "BLE_scanner.xdke"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1485235390000,
+        "modified": 1485235390000,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "README.md": {
+        "previousModTime": 1485235390000,
+        "modified": 1485235390000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "icon.png": {
+        "previousModTime": 1485235390000,
+        "modified": 1485235390000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1485295054000,
+        "modified": 1485295054000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1485235390000,
+        "modified": 1485235390000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1485235392000,
+        "modified": 1485235392000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "http_post.js": {
+        "previousModTime": 1485292752000,
+        "modified": 1485292752000,
+        "seen": true,
+        "name": "http_post.js"
+      }
+    },
+    "boardFileStatus": {}
+  }
+}
